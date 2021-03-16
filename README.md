@@ -31,7 +31,7 @@ npm install
 ### Run
 
 ```bash
-# Run the client
+# Run the server
 npm start
 ```
 
