@@ -2,7 +2,7 @@
 Posts API built with express.
 
 ## Routes
-
+```
 @route   GET /posts/
 @desc    Get all posts
 
@@ -17,7 +17,7 @@ Posts API built with express.
 
 @route   PATCH /posts/:id
 @desc    Update a post by id
-
+```
 
 ## Quick Start
 
